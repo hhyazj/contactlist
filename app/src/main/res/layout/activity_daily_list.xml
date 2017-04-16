@@ -33,7 +33,7 @@
             android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="添加新日记"
+            android:text="新日记"
             android:textSize="30sp"/>
 
     </LinearLayout>
